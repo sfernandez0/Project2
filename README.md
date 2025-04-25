@@ -4,7 +4,7 @@ This project implements a Gradient Boosting Tree Classifier **entirely from firs
 
 It includes a custom-built decision tree regressor as the weak learner and supports classification tasks via additive modeling in the functional space.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 gradient_boosting/
